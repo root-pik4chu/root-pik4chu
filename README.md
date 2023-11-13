@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Saundale</h1>
 <h3 align="center">Algorithm: Word used by programmers when they don’t want to explain what they did.</h3>
 
-<img align="right" alt="code" width="400" src="https://user-images.githubusercontent.com/68701068/214940085-db5102a5-b973-49cb-8c73-7472949cff2e.gif">
+<img align="right" alt="code" width="350" src="https://user-images.githubusercontent.com/68701068/214940085-db5102a5-b973-49cb-8c73-7472949cff2e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=root-pik4chu&label=Profile%20views&color=0e75b6&style=flat" alt="root-pik4chu" /> </p>
 
