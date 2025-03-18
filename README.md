@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="30" height="30" /> yo,i'm Sahil Saundale
 ### 💫 About Me:
 👀 i'm looking for FrontEnd Developer Role and i'm Freelancer <br>💬 Ask me about FrontEnd Development , web Animations , GSAP animation , Framer motion<br>📫 How to reach me sahilsaundale@gmail.com / https://www.linkedin.com/in/sahil-saundale/<br>
-<img  align="right" alt="code" width="300"  src="https://media4.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47l8a4sans2hiaolv0ub7qpiif2br8v8kjrjn1noaq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img  align="right" alt="code" width="200"  src="https://media4.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47l8a4sans2hiaolv0ub7qpiif2br8v8kjrjn1noaq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pik4chu7886) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-saundale/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sahil_saundale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilsaundale@gmail.com) 
