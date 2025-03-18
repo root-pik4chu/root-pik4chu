@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFdSxsgp1lRIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709071767931?e=1747872000&v=beta&t=_MGJr6Sun1eTeXVXled9e3dpOoYZnuhn8N1QUVVQUHM"> <br>
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="30" height="30" /> yo,i'm Sahil Saundale
 ### 💫 About Me:
 👀 i'm looking for FrontEnd Developer Role and i'm Freelancer <br>💬 Ask me about FrontEnd Development , web Animations , GSAP animation , Framer motion<br>📫 How to reach me sahilsaundale@gmail.com / https://www.linkedin.com/in/sahil-saundale/<br>
