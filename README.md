@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFdSxsgp1lRIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709071767931?e=1747872000&v=beta&t=_MGJr6Sun1eTeXVXled9e3dpOoYZnuhn8N1QUVVQUHM"> <br>
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="30" height="30" /> yo,i'm Sahil Saundale
-### 💫 About Me:
+### 💫 About Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull%20and%20Crossbones.png" alt="Skull and Crossbones" width="30" height="30" />
 👀 i'm looking for FrontEnd Developer Role and i'm Freelancer <br>💬 Ask me about FrontEnd Development , web Animations , GSAP animation , Framer motion<br>📫 How to reach me sahilsaundale@gmail.com / https://www.linkedin.com/in/sahil-saundale/<br>
 <img  align="right" alt="code" width="200"  src="https://media4.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47l8a4sans2hiaolv0ub7qpiif2br8v8kjrjn1noaq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
